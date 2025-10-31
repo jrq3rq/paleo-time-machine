@@ -4,6 +4,117 @@
 A **sci-fi imagination engine** — slide time, watch your world reborn.
 Powered by **Grok API**, **Firebase**, and **Mapbox**.
 
+# Major Paleoenvironments
+**A visual guide to ancient Earth settings preserved in the rock record**
+
+---
+<img src="assets/60DBAA37-7DA9-4677-9FAC-6634143F98FC.PNG" alt="Paleoenvironments Chart" width="400">
+
+## Continental
+*Land-based ecosystems shaped by climate & elevation*
+
+| Environment | Key Features |
+|-------------|--------------|
+| Tropical Rainforest | High rainfall, dense canopy |
+| Monsoonal Forest | Seasonal wet/dry cycles |
+| Savanna / Woodland | Grassland with scattered trees |
+| Temperate Forest | Broadleaf & coniferous |
+| Boreal / Taiga | Cold, evergreen forests |
+| Tundra / Steppe | Treeless, permafrost |
+| Desert / Erg | Arid dunes, wind erosion |
+| Semi-arid Steppe | Sparse grass, drought |
+| Alpine / Montane | High-elevation, thin soils |
+
+---
+
+## Fluvial & Lacustrine
+*Freshwater systems driven by rivers, lakes & floods*
+
+| Environment | Key Features |
+|-------------|--------------|
+| River (Meandering/Braided) | Channels, point bars |
+| Floodplain / Alluvial | Overbank silts, soils |
+| Delta Plain | Distributaries, wetlands |
+| Lake (Lacustrine) | Laminated muds, varves |
+| Swamp / Peat Bog | Organic-rich, coal-forming |
+| Playa / Salt Flat | Ephemeral lakes, evaporites |
+| Glacial Valley / Moraine | Till, outwash plains |
+| Periglacial / Loess | Wind-blown silt, frost features |
+
+---
+
+## Transitional (Land–Sea)
+*Dynamic coastal zones where land meets ocean*
+
+| Environment | Key Features |
+|-------------|--------------|
+| Deltaic | Prograding lobes, brackish |
+| Estuarine | Tidal mixing, funnel shape |
+| Lagoonal | Protected, shallow water |
+| Tidal Flat / Sabkha | Mudflats, evaporites |
+| Barrier Island / Beach | Sand bars, wave energy |
+| Salt Marsh / Mangrove | Vegetated, fine sediment |
+| Coastal Dune | Wind-blown sand ridges |
+
+---
+
+## Marine
+*Ocean basins from shallow shelves to deep trenches*
+
+### Shallow (Neritic)
+| Environment | Key Features |
+|-------------|--------------|
+| Carbonate Platform / Reef | Warm, clear water, limestone |
+| Shoal / Oolite Bank | High-energy grainstones |
+| Shelf Lagoon / Back-reef | Low energy, protected |
+| Barrier Reef | Offshore framework |
+| Outer Shelf | Below wave base, muds |
+
+### Deep (Bathyal–Abyssal)
+| Environment | Key Features |
+|-------------|--------------|
+| Continental Slope / Rise | Turbidites, slumps |
+| Abyssal Plain | Flat, pelagic oozes |
+| Oceanic Ridge Flank | Volcanic, hydrothermal |
+| Trench / Subduction Zone | Sediment starvation |
+
+---
+
+## Biogenic / Ecological
+*Landscapes built by life*
+
+| Environment | Key Features |
+|-------------|--------------|
+| Stromatolite Reef | Microbial carbonates |
+| Coral Reef | Framework builders |
+| Bryozoan / Sponge Mound | Bioherms, deep water |
+| Shell Gravel Bank | Mollusk accumulations |
+| Bonebed | Vertebrate concentrations |
+| Coal Swamp | Peat → coal, anaerobic |
+| Mangrove Forest | Saline-tolerant trees |
+
+---
+
+## Extreme / Specialized
+*Rare, high-energy, or chemically unique settings*
+
+| Environment | Key Features |
+|-------------|--------------|
+| Upwelling Zone | Nutrient-rich, high productivity |
+| Hypersaline Basin | Restricted, thick evaporites |
+| Anoxic Basin | Oxygen-free, black shales |
+| Pelagic Open Ocean | Far from land, slow sedimentation |
+| Volcanic Plain | Lava flows, ash beds |
+| Hydrothermal Vent | Chemosynthetic ecosystems |
+| Impact Crater Lake | Shock metamorphism, ejecta |
+
+---
+
+> **Purpose**: Use this chart to interpret sedimentary rocks, fossils, and climate signals — reconstructing ancient worlds from modern outcrops.
+---
+
+Together, these categories span the full spectrum of **Earth’s depositional systems**, forming the foundation for interpreting **paleoecology, sedimentology, and climate evolution through deep time**.
+
 ---
 
 ## Vision
@@ -34,6 +145,7 @@ Powered by **Grok API**, **Firebase**, and **Mapbox**.
 
 ---
 
+
 ```markdown
 paleo-time-machine/
 ├── functions/
@@ -63,7 +175,7 @@ paleo-time-machine/
 └── README.md             # “Slide time. See your world reborn.”
 ```
 ---
-
+<!--
 ```markdown
 paleo-time-machine/
 ├── .github/
@@ -162,4 +274,4 @@ paleo-time-machine/
 ├── tsconfig.json
 ├── vite-env.d.ts
 └── README.md                         # “Slide back. See what grew here.”
-```
+``` -->
